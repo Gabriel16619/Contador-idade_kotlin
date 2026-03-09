@@ -5,4 +5,4 @@
    Imagem da interface:
 
    
-- <img width="393" height="876" alt="Captura de Tela 2026-03-09 às 15 44 12" src="https://github.com/user-attachments/assets/733e678e-ba4f-46cf-b7ae-800848d7f142" />
+ <img width="393" height="876" alt="Captura de Tela 2026-03-09 às 15 44 12" src="https://github.com/user-attachments/assets/733e678e-ba4f-46cf-b7ae-800848d7f142" />
